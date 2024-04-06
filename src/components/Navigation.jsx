@@ -6,24 +6,24 @@ return (
 <>
     <ul>
         <li>
-            <a href="/">
+            <Link to="/">
                 Home
-            </a>
+            </Link>
         </li>
         <li>
-            <a href="/cars">
+            <Link to="/cars">
                 Cars
-            </a>
+            </Link>
         </li>
         <li>
-            <a href="/contact">
+            <Link to="/contact">
                 Contact
-            </a>
+            </Link>
         </li>
         <li>
-            <a href="/about">
+            <Link to="/about">
                 About
-            </a>
+            </Link>
         </li>
     </ul>
 </>
