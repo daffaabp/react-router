@@ -6,24 +6,24 @@ return (
 <>
     <ul>
         <li>
-            <Link to="/">
+            <NavLink to="/">
                 Home
-            </Link>
+            </NavLink>
         </li>
         <li>
-            <Link to="/cars">
+            <NavLink to="/cars">
                 Cars
-            </Link>
+            </NavLink>
         </li>
         <li>
-            <Link to="/contact">
+            <NavLink to="/contact">
                 Contact
-            </Link>
+            </NavLink>
         </li>
         <li>
-            <Link to="/about">
+            <NavLink to="/about">
                 About
-            </Link>
+            </NavLink>
         </li>
     </ul>
 </>
