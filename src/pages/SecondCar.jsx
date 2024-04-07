@@ -3,7 +3,7 @@ import React from 'react'
 const SecondCar = () => {
   return (
     <div>
-      
+      SecondCar
     </div>
   )
 }
